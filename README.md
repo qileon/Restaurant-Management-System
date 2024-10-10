@@ -11,11 +11,6 @@ The system should display the order details, including item names, prices, and t
 Users can remove items from the current order.
 The system should allow placing an order, finalizing the current order, and creating a new one.
 
-Non-Functional Requirements:
-The system should have a user-friendly graphical interface (GUI).
-The interface should be easy to understand and navigate.
-Basic error handling should be implemented to prevent invalid inputs.
-
 3. Testing
 The following tests were conducted to ensure the functionality of the RMS:
 Menu Items:
